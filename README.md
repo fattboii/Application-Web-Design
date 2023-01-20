@@ -11,7 +11,7 @@ Teacher: Erik Ezequiel Carrillo Moo
 
 -- Tarea 1 --
 
--/ Markdown Tags -
+-\ Markdown Tags -
 Heading tags: 
 "#" for heading 1 and "######" heading 6
 
