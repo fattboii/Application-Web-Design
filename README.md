@@ -11,9 +11,24 @@ Teacher: Erik Ezequiel Carrillo Moo
 
 -- Tarea 1 --
 
--\ Markdown Tags -
+-- Markdown Tags --
+
 Heading tags: 
+
 "#" for heading 1 and "######" heading 6
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
 
 Alternate Syntax: 
 Heading 1 = under the heading text
