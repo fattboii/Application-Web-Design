@@ -67,6 +67,8 @@ This is *Italic text*
 
 ### Blockquotes:
 
+---
+
 To create a blockquote, add a > in front of a paragraph.
 
 > this is a block quote
@@ -78,10 +80,37 @@ To create a nested blockquote add two >> in front of a paragraph.
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 
+### Code Blocks:
 
+---
+
+Code blocks are normally indented four spaces or one tab. When they’re in a list, indent them eight spaces or two tabs.
+
+1. Open the file.
+2. Find the following code block on line 21:
+
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+
+3. Update the title to match the name of your website.
+
+### Images:
+
+---
+
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3. Close the file.
 
 
 ### Ordered Lists:
+
+---
 
 By adding a Number + . will start a ordered list
 
@@ -92,6 +121,8 @@ By adding a Number + . will start a ordered list
 
 ### Unordered Lists:
 
+---
+
 By using -, *, or + we can create an Unordered list
 
 - item 1
@@ -100,8 +131,19 @@ By using -, *, or + we can create an Unordered list
 
 ### Denoting Words:
 
+---
+
 To denote a word we enclose a word or phrase with '
 
+At the command prompt, type `nano`.
+
+### Links:
+
+---
+
+To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 
 
