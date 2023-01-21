@@ -14,6 +14,7 @@ Semester: 6
 Class: Diseño de aplicaciones web 
 
 Teacher: Erik Ezequiel Carrillo Moo
+
 ---
 
 ## Tarea 1
@@ -21,7 +22,7 @@ Teacher: Erik Ezequiel Carrillo Moo
 
 -- Markdown Tags --
 
-Heading tags: 
+### Heading tags: 
 
 ---
 
@@ -40,7 +41,7 @@ Heading tags:
 ###### Heading 6
 
 
-Alternate Syntax: 
+### Alternate Syntax: 
 
 ---
 
@@ -48,7 +49,7 @@ Heading 1 = under the heading text
 
 Heading 2 - under the heading text
 
-Bold Text: 
+### Bold Text: 
 
 ---
 
@@ -56,7 +57,7 @@ Using ** or __ in between a word or phrase the text will be become bold
 
 This is **bold text**
 
-Italic Text: 
+### Italic Text: 
 
 ---
 
@@ -64,7 +65,7 @@ Using * or _ in between a word or phrase the text will be become italic
 
 This is *Italic text*
 
-Blockquotes:
+### Blockquotes:
 
 To create a blockquote, add a > in front of a paragraph.
 
@@ -77,7 +78,10 @@ To create a nested blockquote add two >> in front of a paragraph.
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 
-Ordered Lists:
+
+
+
+### Ordered Lists:
 
 By adding a Number + . will start a ordered list
 
@@ -86,7 +90,7 @@ By adding a Number + . will start a ordered list
 3. item 3
 
 
-Unordered Lists:
+### Unordered Lists:
 
 By using -, *, or + we can create an Unordered list
 
@@ -94,7 +98,7 @@ By using -, *, or + we can create an Unordered list
 - item 2
 - item 3
 
-Denoting Words:
+### Denoting Words:
 
 To denote a word we enclose a word or phrase with '
 
