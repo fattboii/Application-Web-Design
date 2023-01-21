@@ -103,7 +103,7 @@ Code blocks are normally indented four spaces or one tab. When they’re in a li
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+    ![Tux, the Linux mascot]("C:\Users\josht\OneDrive\School\Semestre 6\AppsWebs\peng.png")
 
 3. Close the file.
 
