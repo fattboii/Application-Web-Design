@@ -181,10 +181,10 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 1. Find commit history log
 
-    git log --oneline
+      git log --oneline
 
 2. look for the ID of the commit version you want to roll back too and copy it
 
 3. RollBack
 
-    git reset --hard (commit version ID)
+      git reset --hard (commit version ID)
