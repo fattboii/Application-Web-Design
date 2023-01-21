@@ -18,11 +18,12 @@ Teacher: Erik Ezequiel Carrillo Moo
 ---
 
 ## Tarea 1
+
+### MarkDown Tags:
+
 ---
 
--- Markdown Tags --
-
-### Heading tags: 
+#### Heading tags: 
 
 ---
 
@@ -41,7 +42,7 @@ Teacher: Erik Ezequiel Carrillo Moo
 ###### Heading 6
 
 
-### Alternate Syntax: 
+#### Alternate Syntax: 
 
 ---
 
@@ -49,7 +50,7 @@ Heading 1 = under the heading text
 
 Heading 2 - under the heading text
 
-### Bold Text: 
+#### Bold Text: 
 
 ---
 
@@ -57,7 +58,7 @@ Using ** or __ in between a word or phrase the text will be become bold
 
 This is **bold text**
 
-### Italic Text: 
+#### Italic Text: 
 
 ---
 
@@ -65,7 +66,7 @@ Using * or _ in between a word or phrase the text will be become italic
 
 This is *Italic text*
 
-### Blockquotes:
+#### Blockquotes:
 
 ---
 
@@ -80,7 +81,7 @@ To create a nested blockquote add two >> in front of a paragraph.
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 
-### Code Blocks:
+#### Code Blocks:
 
 ---
 
@@ -96,7 +97,7 @@ Code blocks are normally indented four spaces or one tab. When they’re in a li
 
 3. Update the title to match the name of your website.
 
-### Ordered Lists:
+#### Ordered Lists:
 
 ---
 
@@ -107,7 +108,7 @@ By adding a Number + . will start a ordered list
 3. item 3
 
 
-### Unordered Lists:
+#### Unordered Lists:
 
 ---
 
@@ -117,7 +118,7 @@ By using -, *, or + we can create an Unordered list
 - item 2
 - item 3
 
-### Denoting Words:
+#### Denoting Words:
 
 ---
 
@@ -125,7 +126,7 @@ To denote a word we enclose a word or phrase with '
 
 At the command prompt, type `nano`.
 
-### Links:
+#### Links:
 
 ---
 
