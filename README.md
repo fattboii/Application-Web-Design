@@ -140,23 +140,23 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 ### Check the status of a local repository.
 
-  git status -s
+    git status -s
 
 ### Add individual files or globally.
 
-  git add .
+    git add .
   
   > This will add files into the stage.
 
 ### Add comments to the commit.
 
-  git commit -m "commit message goes here"
+    git commit -m "commit message goes here"
 
   > It is necesry to add files into the stage first before doing a commit.
 
 ### Upload your changes to the remote repository.
 
-  git push
+    git push
 
   > it it necesary to do the last two steps (add and commit)
  
