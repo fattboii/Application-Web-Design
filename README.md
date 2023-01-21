@@ -164,15 +164,15 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 1. Create
 
-    git checkout -b (name of branch)
+        git checkout -b (name of branch)
 
 2. Browse
 
-    git checkout (name of a existing branch)
+        git checkout (name of a existing branch)
 
 3. Delete
 
-    git branch --delete (name of branch)
+        git branch --delete (name of branch)
 
   > NOTICE: You can delete the branch you are currently on.
 
