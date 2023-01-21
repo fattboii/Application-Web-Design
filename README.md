@@ -134,5 +134,37 @@ To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and t
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
+---
 
+### Git Commands:
+
+### Check the status of a local repository.
+
+  git status -s
+
+### Add individual files or globally.
+
+  git add .
+  
+  > This will add files into the stage.
+
+### Add comments to the commit.
+
+  git commit -m "commit message goes here"
+
+  > It is necesry to add files into the stage first before doing a commit.
+
+### Upload your changes to the remote repository.
+
+  git push
+
+  > it it necesary to do the last two steps (add and commit)
+ 
+### Create, browse, and delete branches.
+
+1. Create
+    
+
+
+### Roll back a repository to a specific commit.
 
